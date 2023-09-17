@@ -4,7 +4,7 @@
   "name": "Estudio-de-suelo",
   "content": "",
   "created_at": "2023-09-16 20:56:50",
-  "updated_at": "2023-09-16 20:59:33",
+  "updated_at": "2023-09-16 21:05:26",
   "stick": "",
   "documents": [
     {
@@ -15,7 +15,8 @@
       "master": "",
       "thumb": "/images/thumb-default.png",
       "components": {
-        "0e85c1ecb48645ffa5bd3f8c842dcce6": 1
+        "0e85c1ecb48645ffa5bd3f8c842dcce6": 1,
+        "cea17d1cd79d491194b1051bb639058e": 2
       },
       "BOM": [
         [
@@ -24,6 +25,24 @@
           "Package",
           "Components",
           "CustomPara"
+        ],
+        [
+          "A2005WV-4P",
+          2,
+          "HDR-TH_4P-P2.00-V-M",
+          "CN1,CN2",
+          {
+            "Contributor": "LCSC",
+            "Supplier": "LCSC",
+            "Supplier Part": "C225256",
+            "Manufacturer": "CJT(长江连接器)",
+            "Manufacturer Part": "A2005WV-4P",
+            "JLCPCB Part Class": "Extended Part",
+            "link": "https://lcsc.com/eda_search?q=C225256&%26type=1&ref=editor",
+            "spiceSymbolName": "A2005WV-4P",
+            "puuid": "0351d76164b748709f71ccec266c9c7d",
+            "uuid": "cea17d1cd79d491194b1051bb639058e"
+          }
         ],
         [
           "PIC18F45K50-I/P",
@@ -44,16 +63,16 @@
           }
         ]
       ],
-      "updateTime": 1694912373,
+      "updateTime": 1694912726,
       "createTime": 1694912211,
       "histories": [],
       "created_at": "2023-09-16 20:56:51",
-      "updated_at": "2023-09-16 20:59:33"
+      "updated_at": "2023-09-16 21:05:26"
     }
   ],
   "sort": [],
   "title": "Estudio-de-suelo",
   "foldername": "Estudio-de-suelo",
   "schfilename": "Estudio-de-suelo.json",
-  "schfilemtime": 1694912373666
+  "schfilemtime": 1694912726977
 }
