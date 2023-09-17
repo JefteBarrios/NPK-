@@ -1,0 +1,59 @@
+{
+  "uuid": "3326836c6fb3fd41a175d135a944e1b7",
+  "path": "Offline/Estudio-de-suelo",
+  "name": "Estudio-de-suelo",
+  "content": "",
+  "created_at": "2023-09-16 20:56:50",
+  "updated_at": "2023-09-16 20:59:33",
+  "stick": "",
+  "documents": [
+    {
+      "uuid": "daadbe94acadc7ab4c7c9f102163e035",
+      "title": "Sheet_1",
+      "description": "",
+      "docType": "1",
+      "master": "",
+      "thumb": "/images/thumb-default.png",
+      "components": {
+        "0e85c1ecb48645ffa5bd3f8c842dcce6": 1
+      },
+      "BOM": [
+        [
+          "Value",
+          "Quantity",
+          "Package",
+          "Components",
+          "CustomPara"
+        ],
+        [
+          "PIC18F45K50-I/P",
+          1,
+          "PDIP-40_L52.3-W13.8-P2.54-LS15.2-BL",
+          "U1",
+          {
+            "Contributor": "LCSC",
+            "Supplier": "LCSC",
+            "Supplier Part": "C648019",
+            "Manufacturer": "MICROCHIP(美国微芯)",
+            "Manufacturer Part": "PIC18F45K50-I/P",
+            "JLCPCB Part Class": "Extended Part",
+            "link": "https://lcsc.com/eda_search?q=C648019&%26type=1&ref=editor",
+            "spiceSymbolName": "PIC18F45K50-I/P",
+            "puuid": "5b63737422d7404ebd1cf8e15fdec88c",
+            "uuid": "0e85c1ecb48645ffa5bd3f8c842dcce6"
+          }
+        ]
+      ],
+      "updateTime": 1694912373,
+      "createTime": 1694912211,
+      "histories": [],
+      "created_at": "2023-09-16 20:56:51",
+      "updated_at": "2023-09-16 20:59:33"
+    }
+  ],
+  "sort": [],
+  "title": "Estudio-de-suelo",
+  "foldername": "Estudio-de-suelo",
+  "schfilename": "Estudio-de-suelo.json",
+  "schfilemtime": 1694912373666
+}
